@@ -1,0 +1,1 @@
+bin\gsudo.exe pythonw main.py
